@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hola, soy Esteban Ozcariz 👋
 
-<!--
-**eozcariz-hub/eozcariz-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Supervisor Senior de Operaciones con más de 12 años de experiencia en generación eléctrica y entornos industriales.
 
-Here are some ideas to get you started:
+Desde 2025 también desarrollo funciones de Gestión de Información y Transformación Digital en Operaciones de Generación, combinando experiencia operativa, energía, datos y tecnología.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Perfil profesional
+
+* Licenciado en Business Analytics.
+* Maestría en IA Aplicada a los Negocios finalizada — título en trámite.
+* Experiencia en generación térmica y eólica, sistemas eléctricos y automatización industrial.
+* Desarrollo de aplicaciones en Microsoft Power Apps.
+* Desarrollo de soluciones de análisis y visualización en Microsoft Power BI.
+
+## Próximas líneas de trabajo
+Implementaciones de inteligencia artificial aplicada a procesos operativos.
+Desarrollo de aplicaciones con Python para automatización, análisis y procesamiento de datos.
+Creación progresiva de proyectos de Data Engineering aplicados a energía y datos industriales.
+
+## Dirección profesional
+
+Actualmente estoy construyendo mi portfolio técnico y desarrollando progresivamente conocimientos de Data Engineering aplicados a energía, operaciones y datos industriales.
+
+Los próximos repositorios mostrarán proyectos de transformación digital, analítica de datos, automatización, inteligencia artificial y procesamiento de información.
+
+## Contacto
+
+[LinkedIn](https://www.linkedin.com/in/esteban-ozcariz-554687116/)
