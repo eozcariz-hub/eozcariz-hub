@@ -23,6 +23,14 @@ Actualmente estoy construyendo mi portfolio técnico y desarrollando progresivam
 
 Los próximos repositorios mostrarán proyectos de transformación digital, analítica de datos, automatización, inteligencia artificial y procesamiento de información.
 
+## Proyectos destacados
+
+### [Digitalización de Operaciones con Power Apps](https://github.com/eozcariz-hub/digitalizacion-operaciones-power-apps)
+
+Aplicación desarrollada para digitalizar, estandarizar y centralizar la gestión de información operativa de dos centrales de generación eléctrica.
+
+El proyecto incluye formularios móviles, validaciones con Power Fx, almacenamiento estructurado, transformación de datos y su posterior análisis mediante Power BI.
+
 ## Contacto
 
 [LinkedIn](https://www.linkedin.com/in/esteban-ozcariz-554687116/)
