@@ -29,7 +29,13 @@ Los próximos repositorios mostrarán proyectos de transformación digital, anal
 
 Aplicación desarrollada para digitalizar, estandarizar y centralizar la gestión de información operativa de dos centrales de generación eléctrica.
 
-El proyecto incluye formularios móviles, validaciones con Power Fx, almacenamiento estructurado, transformación de datos y su posterior análisis mediante Power BI.
+Incluye formularios móviles, validaciones con Power Fx, almacenamiento estructurado, transformación de datos y posterior análisis mediante Power BI.
+
+### [Control Operativo con Power BI](https://github.com/eozcariz-hub/control-operativo-power-bi)
+
+Solución desarrollada para integrar, transformar y visualizar información operativa de Ciclo Simple y Ciclo Combinado.
+
+Incluye seguimiento de recorridas realizadas por Supervisores de Operaciones, novedades de turno, estado de equipamientos y avisos, mediante Power Query, modelado de datos y medidas DAX.
 
 ## Contacto
 
